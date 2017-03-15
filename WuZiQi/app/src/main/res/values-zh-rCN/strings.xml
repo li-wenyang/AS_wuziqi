@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="return_game">返回游戏</string>
+    <string name="replay">复盘</string>
+    <string name="back_move">悔棋</string>
+    <string name="app_name">五子棋</string>
+    <string name="begin_game">开始游戏</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="whitewin">白棋胜利！是否再来一局？</string>
+    <string name="blackwin">黑棋胜利！是否再来一局？</string>
+</resources>
